@@ -1,0 +1,22 @@
+{
+  "name": "no-mans-sky-exploration-toolkit",
+  "displayName": "No Man's Sky Exploration Toolkit",
+  "programType": "exploration-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Journey notes",
+    "Equipment profiles",
+    "Resource records"
+  ],
+  "topics": [
+    "no-mans-sky-exploration-toolkit",
+    "no-mans-sky-tools",
+    "no-mans-sky-menu",
+    "no-mans-sky-settings",
+    "no-mans-sky-configs",
+    "no-mans-sky-journey-notes",
+    "no-mans-sky-equipment-profiles"
+  ]
+}
